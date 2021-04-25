@@ -8,7 +8,7 @@ def first_name(male=None, female=None):
     creates a random person name.
     popular male names taken from:
     https://www.babble.com/pregnancy/1000-most-popular-boy-names
-    popular female names taken from: https://www.verywellfamily.com/top-1000-baby-girl-names-2757832
+    popular female names taken from: https://babygirlynames.com/blog/1500-top-baby-girl-names-for-usa-2021/
     popular last names: https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_North_America#United_States_(American)
     """
     genders = ['m', 'f']
